@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhivadevil94
+- 👋 Hi, I’m @dhivagar
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning Python Basics
 - 💞️ I’m looking to collaborate on ...
